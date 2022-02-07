@@ -8,6 +8,6 @@ TG -  @d_uniform
 # First of all see my pinned projects
 
 ## MY RECENT PROJECTS:
-https://cocktail-shop.netlify.app
-https://cart-19.netlify.app
-https://cakes-menu.netlify.app
+### https://cocktail-shop.netlify.app
+### https://cart-19.netlify.app
+### https://cakes-menu.netlify.app
